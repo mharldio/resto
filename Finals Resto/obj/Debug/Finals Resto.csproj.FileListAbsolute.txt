@@ -1,0 +1,17 @@
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\bin\Debug\Finals Resto.exe.config
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\bin\Debug\Finals Resto.exe
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\bin\Debug\Finals Resto.pdb
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\bin\Debug\Guna.UI.dll
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\bin\Debug\Guna.UI2.dll
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals Resto.csproj.AssemblyReference.cache
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals_Resto.Form1.resources
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals_Resto.Properties.Resources.resources
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals Resto.csproj.GenerateResource.cache
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals Resto.csproj.CoreCompileInputs.cache
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals Resto.csproj.CopyComplete
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals Resto.exe
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals Resto.pdb
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals_Resto.widgets.resources
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals_Resto.quantity.resources
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals_Resto.Accept_Payment.resources
+C:\Users\TIMOTHY DIO\source\repos\Finals Resto\Finals Resto\obj\Debug\Finals_Resto.change.resources
